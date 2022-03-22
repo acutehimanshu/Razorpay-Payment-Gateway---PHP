@@ -19,5 +19,7 @@ Step Five -> Provide the Success, failure and cancel url in Ajax.
 Process complete.
 
 Thanks and Regards
+
 Himanshu Sharma
+
 Learndphere@gmail.com
